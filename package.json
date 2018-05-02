@@ -1,0 +1,23 @@
+{
+  "name": "gulpDemo1",
+  "version": "1.0.0",
+  "description": "git clone https://github.com/gitsweets/gulpDemo1.git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitsweets/gulpDemo1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gitsweets/gulpDemo1/issues"
+  },
+  "homepage": "https://github.com/gitsweets/gulpDemo1#readme",
+  "devDependencies": {
+    "require-dir": "^1.0.0"
+  }
+}
